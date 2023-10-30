@@ -1,0 +1,24 @@
+body{
+    background-color: rosybrown;
+    padding:2em;
+    margin:1em;
+}
+h1{
+    font-family: "American Typewriter";
+}
+h2{
+    font-family: "American Typewriter";
+}
+h3{
+    font-family: "American Typewriter";
+}
+.form{
+    border-style: solid;
+    border-width: medium;
+    border-color: #2a0c3b;
+    padding:1em;
+}
+a:hover{
+    color:red;
+
+}
