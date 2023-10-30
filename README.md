@@ -12,5 +12,5 @@ The c++ to python transtion I was never able to succesfully debug although both 
 
 I would like to expand the program to allow for a more extensive test and perhaps include some text input in the php.
 
-The Grade I think I earned is _____ based on the rubric, I did not have a main program for this project as it was not necesary. I think 20 point for the c++ and python program respectively is appropriate as both are fully functional on their own. as well as 10 for html, css and php respectively. aswell as 2 for the argument passing between php and css and 2 for c++ passing it back to php.
+The Grade I think I earned is _____ based on the rubric, I did not have a main program for this project as it was not necesary. I think 20 point for the c++ and python program respectively is appropriate as both are fully functional on their own. as well as 10 for the 2 html, css and php files respectively. aswell as 2 for the argument passing between php and css and 2 for c++ passing it back to php.
  here is a link to the website: https://lcasey1.w3.uvm.edu/M3OEP-lcasey1/cmake-build-debug/vermonttest.html
